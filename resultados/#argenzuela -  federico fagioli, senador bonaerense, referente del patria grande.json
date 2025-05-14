@@ -1,0 +1,21 @@
+{
+  "texto_id": "texto",
+  "clasificacion": "izquierda",
+  "confianza": "alta",
+  "motivos": [
+    "Denuncia la corrupción y el vaciamiento de comedores, enfocándose en el impacto en los sectores más vulnerables.",
+    "Critica fuertemente al gobierno actual, acusándolo de crueldad, inoperancia y de jugar con el hambre de la gente.",
+    "Defiende y exalta el trabajo de las organizaciones sociales, comedores populares e iglesias en los barrios.",
+    "Menciona la necesidad de políticas públicas para resolver el hambre, lo que es un tema central de la izquierda.",
+    "Utiliza un lenguaje emotivo y enfático para expresar indignación ante la situación social."
+  ],
+  "entidades_mencionadas": [
+    "Sandra Petro",
+    "Federico Faioli",
+    "Juan Grabois",
+    "Franco",
+    "Petrobelli",
+    "Andrés Lerner"
+  ],
+  "tokens_procesados": 2232
+}

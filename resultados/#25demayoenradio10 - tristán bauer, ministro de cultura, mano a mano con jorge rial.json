@@ -1,0 +1,18 @@
+{
+  "texto_id": "texto",
+  "clasificacion": "izquierda",
+  "confianza": "alta",
+  "motivos": [
+    "Defensa explícita de la inversión estatal en cultura y el INCAA.",
+    "Mención positiva y reconocimiento de la gestión de Cristina Fernández de Kirchner.",
+    "Énfasis en la importancia de Canal Encuentro y Pacapaca, proyectos asociados a gobiernos de izquierda.",
+    "Referencia a la inclusión de perspectiva de género en los contenidos.",
+    "Celebración de la inversión en producción audiovisual y cultural como generadora de empleo y divisas."
+  ],
+  "entidades_mencionadas": [
+    "Tristán Bauer",
+    "Cristina Fernández de Kirchner",
+    "Kirchner"
+  ],
+  "tokens_procesados": 1403
+}

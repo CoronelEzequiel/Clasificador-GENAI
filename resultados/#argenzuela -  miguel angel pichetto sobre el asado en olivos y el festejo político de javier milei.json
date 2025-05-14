@@ -1,0 +1,22 @@
+{
+  "texto_id": "entrevista_pichetto",
+  "clasificacion": "derecha",
+  "confianza": "alta",
+  "motivos": [
+    "Defensa de la necesidad de ordenar las finanzas públicas y evitar el endeudamiento.",
+    "Crítica a los gobiernos anteriores (Alberto Fernández y Sergio Massa) por la pérdida del poder adquisitivo de los jubilados.",
+    "Énfasis en la importancia del diálogo y los acuerdos con los gobernadores, pero sin dejar de lado la necesidad de ajuste.",
+    "Menciona la necesidad de generar recursos a través de la minería, el petróleo y el gas.",
+    "Defensa de la gobernabilidad y la necesidad de que el gobierno tenga las herramientas necesarias, como el Decreto 70."
+  ],
+  "entidades_mencionadas": [
+    "Miguel Ángel Pichetto",
+    "Alberto Fernández",
+    "Sergio Massa",
+    "Milei",
+    "Perón",
+    "Trump",
+    "Bonavena"
+  ],
+  "tokens_procesados": 2372
+}

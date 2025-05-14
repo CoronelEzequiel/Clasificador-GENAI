@@ -1,0 +1,18 @@
+{
+  "texto_id": "CCK",
+  "clasificacion": "neutral",
+  "confianza": "media",
+  "motivos": [
+    "El texto se centra en la descripción y celebración del Centro Cultural Kirchner (CCK) y sus actividades.",
+    "Se menciona la recuperación de símbolos patrios y el sentimiento patriótico, pero sin una postura ideológica clara.",
+    "Se celebra la programación cultural, incluyendo eventos y exposiciones.",
+    "No se identifican ataques directos a ninguna ideología política.",
+    "La mención de la postdictadura y la recuperación de símbolos patrios podría ser interpretada de diferentes maneras dependiendo del contexto y la audiencia."
+  ],
+  "entidades_mencionadas": [
+    "Martín",
+    "Nacha Guevara",
+    "Jorge"
+  ],
+  "tokens_procesados": 1098
+}

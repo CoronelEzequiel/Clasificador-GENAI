@@ -1,0 +1,19 @@
+{
+  "texto_id": "jorge_rial_y_mauro_viale",
+  "clasificacion": "neutral",
+  "confianza": "alta",
+  "motivos": [
+    "El texto presenta diferentes perspectivas y opiniones sobre el caso, incluyendo la del entrevistador (Jorge Rial), el entrevistado (Jey Mammón) y la presunta víctima (Lucas Benvenuto).",
+    "Se mencionan las posturas de ambas partes, sin tomar una posición definitiva. Se cita a Lucas Benvenuto y se respeta su decisión de no dar una entrevista.",
+    "Se condena el abuso de menores, pero también se da espacio a la versión de Jey Mammón, mostrando un enfoque equilibrado.",
+    "El texto describe los hechos y las declaraciones de manera objetiva, sin inclinarse claramente hacia una postura política específica.",
+    "Se mencionan las implicaciones legales y morales del caso, pero sin tomar partido por ninguna ideología."
+  ],
+  "entidades_mencionadas": [
+    "Jorge Rial",
+    "Mauro Viale",
+    "Jey Mammón",
+    "Lucas Benvenuto"
+  ],
+  "tokens_procesados": 3167
+}

@@ -1,0 +1,25 @@
+{
+  "texto_id": "entrevista_los_pampas",
+  "clasificacion": "neutral",
+  "confianza": "alta",
+  "motivos": [
+    "El texto se centra en una entrevista a un grupo musical de folclore.",
+    "No se expresan opiniones políticas ni se mencionan temas controversiales.",
+    "La entrevista se enfoca en la trayectoria musical, influencias y próximos eventos.",
+    "La inclusión de la letra de una canción no aporta una orientación política clara.",
+    "La promoción de eventos culturales es el foco principal."
+  ],
+  "entidades_mencionadas": [
+    "Los Pampas",
+    "Los Chalchaleros",
+    "Los Fronterizos",
+    "Yma Sumac",
+    "Horacio Salgán",
+    "Víctor",
+    "Gabriel",
+    "Guillermo",
+    "Edgardo Púpero",
+    "Martín Paberini"
+  ],
+  "tokens_procesados": 925
+}

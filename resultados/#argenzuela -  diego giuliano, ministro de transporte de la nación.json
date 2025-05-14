@@ -1,0 +1,19 @@
+{
+  "texto_id": "entrevista_a_giuliano",
+  "clasificacion": "izquierda",
+  "confianza": "alta",
+  "motivos": [
+    "Defensa de los trabajadores y crítica a las empresas que retienen fondos salariales.",
+    "Énfasis en la protección de los fondos públicos y la limitación de subsidios a las empresas.",
+    "Mención y apoyo a la Tarjeta SUBE y el atributo social, herramientas de subsidio a los sectores vulnerables.",
+    "Denuncia de un 'lockout patronal' y acusación de 'intencionalidad política' por parte de las empresas.",
+    "Posibilidad de subsidiar directamente a los trabajadores, en lugar de a las empresas."
+  ],
+  "entidades_mencionadas": [
+    "Diego Giuliano",
+    "Jorge Rial",
+    "Kelly Olmos",
+    "Jorge Donofrio"
+  ],
+  "tokens_procesados": 1378
+}

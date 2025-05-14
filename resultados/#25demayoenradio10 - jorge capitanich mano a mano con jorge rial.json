@@ -1,0 +1,18 @@
+{
+  "texto_id": "texto_ejemplo",
+  "clasificacion": "neutral",
+  "confianza": "media",
+  "motivos": [
+    "El texto presenta una entrevista al gobernador de Chaco, Jorge Capitanich, quien expone una visión económica y de desarrollo para la provincia y el país.",
+    "Se abordan temas como la producción de alimentos, energía, minerales y la necesidad de industrialización y exportación.",
+    "Se mencionan inversiones, acuerdos internacionales y la importancia de la federalización.",
+    "Si bien Capitanich es peronista, el texto no expresa una clara postura ideológica, sino más bien un enfoque pragmático en la gestión y el desarrollo económico.",
+    "El discurso se centra en propuestas de desarrollo económico, sin atacar ni defender abiertamente a ninguna ideología política."
+  ],
+  "entidades_mencionadas": [
+    "Jorge Capitanich",
+    "Papa Francisco",
+    "Martín Guzmán"
+  ],
+  "tokens_procesados": 2999
+}

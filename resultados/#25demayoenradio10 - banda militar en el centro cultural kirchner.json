@@ -1,0 +1,18 @@
+{
+  "texto_id": "texto1",
+  "clasificacion": "neutral",
+  "confianza": "media",
+  "motivos": [
+    "El texto describe un evento patriótico con la participación de las fuerzas armadas.",
+    "No se mencionan posturas políticas específicas ni críticas a ningún sector.",
+    "El foco está puesto en la celebración del Día de la Patria y el Himno Nacional.",
+    "Se agradece a la Banda Militar del Ejército Argentino por su participación."
+  ],
+  "entidades_mencionadas": [
+    "Regimiento de Infantería 1 de Patricios",
+    "Regimiento de Artillería 1 \"Brigadier General Tomás de Iriarte\"",
+    "Regimiento de Granaderos a Caballo \"General San Martín\"",
+    "Banda de San Lorenzo"
+  ],
+  "tokens_procesados": 546
+}

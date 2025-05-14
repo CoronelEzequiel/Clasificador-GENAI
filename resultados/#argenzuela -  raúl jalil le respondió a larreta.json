@@ -1,0 +1,24 @@
+{
+  "texto_id": "texto",
+  "clasificacion": "neutral",
+  "confianza": "media",
+  "motivos": [
+    "El texto se enfoca en temas económicos y de desarrollo, como la minería, el turismo y la inversión, sin posicionarse claramente en una ideología política.",
+    "Menciona la colaboración entre diferentes gobernadores de distintas provincias, incluyendo a figuras políticas de diferentes espacios, lo que sugiere un enfoque pragmático.",
+    "Se discuten temas como las regalías mineras, los impuestos y la industrialización, pero no se expresan posturas ideológicas fuertes sobre estos temas.",
+    "El gobernador destaca las inversiones extranjeras y la importancia de la industrialización, lo cual puede ser interpretado desde diferentes perspectivas políticas.",
+    "Se mencionan figuras políticas de diferentes partidos, lo que indica una búsqueda de consenso y colaboración, en lugar de una postura ideológica definida."
+  ],
+  "entidades_mencionadas": [
+    "Raúl Jalil",
+    "Morales",
+    "Sáenz",
+    "YPF",
+    "Cristina Fernández de Kirchner",
+    "Sergio Massa",
+    "Fernando Ávila",
+    "Gerardo Zamora",
+    "Coqui Capitanich"
+  ],
+  "tokens_procesados": 1559
+}
